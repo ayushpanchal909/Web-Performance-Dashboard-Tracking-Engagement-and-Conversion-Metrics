@@ -1,4 +1,4 @@
-## Website-performance-dashboard
+## Web Performance Dashboard: Tracking Engagement and Conversion Metrics
 
 In my BI project focused on website performance, I began by importing datasets from MySQL. After ensuring data cleanliness, I enhanced analysis potential by adding crucial DAX measures and calculated columns. I established logical relationships between tables like order items, refunds, orders, products, website pageviews, and website sessions. The resulting dashboard boasts user-friendly features like slicers for year and months, and it contains informative KPI cards indicating total sessions, total orders, and overall conversion rate.
 
@@ -14,3 +14,6 @@ This Website Performance Dashboard empowers effective monitoring and decision-ma
 > Which campaign and source combination exhibits the highest conversion rate in the matrix table, and what is the corresponding percentage?
 
 >Which utm_campaigns and utm_source combination generated the highest total sessions and which utm_campaigns and utm_source combination generated the highest conversion rate?
+
+### Dashboard
+
